@@ -6046,8 +6046,8 @@ GameObject:
   - component: {fileID: 1676095489}
   - component: {fileID: 1676095488}
   - component: {fileID: 1676095487}
-  - component: {fileID: 1676095491}
   - component: {fileID: 1676095490}
+  - component: {fileID: 1676095491}
   m_Layer: 5
   m_Name: Button (3)
   m_TagString: Untagged
@@ -6121,7 +6121,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1676095491}
-        m_TargetAssemblyTypeName: QuitManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: Quit, Assembly-CSharp
         m_MethodName: Exit
         m_Mode: 1
         m_Arguments:
@@ -6287,7 +6287,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1676095485}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 74d75afa9ef0d564dadb95f38e8600a5, type: 3}
+  m_Script: {fileID: 11500000, guid: bae62d2d9ebe659409fdc9dd29663121, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1704042233
